@@ -1,7 +1,5 @@
 # FRED Data Analysis Project - Banking Sector
 
-_By David Nguyen, 04/01/2025_
-
 This repository contains a mockup full-stack application that fetches banking data from the FRED API, vectorizes it using Pinecone, and provides a chatbot interface for querying the data.
 The application is built with TypeScript and uses Express for the backend. The frontend is a simple React application that interacts with the backend API.
 
